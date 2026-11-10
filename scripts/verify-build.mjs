@@ -5,7 +5,7 @@ import assert from 'node:assert/strict';
 // 验证实际构建产物，防止子路径部署时出现站内死链、丢失资源或旧域名。
 const root = 'dist';
 const base = '/chi3316.github.io/';
-const origin = 'https://jianpeng-chen.github.io';
+const origin = 'https://chichi-1177.github.io';
 const files = readdirSync(root, { recursive: true }).filter((file) => file.endsWith('.html'));
 const errors = [];
 let references = 0;
