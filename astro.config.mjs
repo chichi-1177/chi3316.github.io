@@ -7,7 +7,7 @@ import rehypeSiteLinks from './scripts/rehype-site-links.mjs';
 const base = '/chi3316.github.io';
 
 export default defineConfig({
-  site: 'https://jianpeng-chen.github.io',
+  site: 'https://chichi-1177.github.io',
   base,
   output: 'static',
   trailingSlash: 'always',

@@ -2,7 +2,7 @@
 
 像素冒险风格的个人网站，展示企业 AI 应用、Agent、数据平台与开源工程实践。
 
-线上地址：https://jianpeng-chen.github.io/chi3316.github.io/
+线上地址：https://chichi-1177.github.io/chi3316.github.io/
 
 ## 本地开发与验证
 
